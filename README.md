@@ -3,7 +3,7 @@
 # Description
 
 A basic web application that is able to make a get, 
-post, and delete using bsic SCRUM methodology. 
+post, and delete using basic SCRUM methodology. 
 We test the application with a localhost server known as Insomnia.
 
 # Table of Contents:
